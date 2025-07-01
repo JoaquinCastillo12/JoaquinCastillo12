@@ -1,16 +1,27 @@
-## Hi there 👋
+# ¡Hola! Soy Joaquin Castillo 👋
 
-<!--
-**JoaquinCastillo12/JoaquinCastillo12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador full-stack con experiencia en soluciones para el sector hidráulico y más. Apasionado por crear aplicaciones eficientes y fáciles de usar.
 
-Here are some ideas to get you started:
+## 🛠 Tecnologías que uso
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Django REST Framework
+- React.js
+- Node.js
+- Flutter
+- PostgreSQL
+- Tailwind CSS
+
+## 🚀 Proyectos destacados
+
+- **Calculadora de Cabeza Dinámica Total:** App móvil para recomendar bombas de agua según caudal y altura.   
+- **Página web para Hidrotek:** Portal web corporativo para la empresa Hidrotek, con catálogo de productos y contacto.  
+- [Ver más en mi GitHub](https://github.com/JoaquinCastillo12)  
+
+## 📫 Contáctame
+
+- [LinkedIn]([https://www.linkedin.com/in/joaquin-castillo/])
+- joaquin.castilloh12@gmail.com
+
+---
+
+¡Gracias por visitar mi perfil! 😊
