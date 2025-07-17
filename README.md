@@ -1,6 +1,6 @@
 # ¡Hola! Soy Joaquin Castillo 👋
 
-Desarrollador full-stack con experiencia en soluciones para el sector hidráulico y más. Apasionado por crear aplicaciones eficientes y fáciles de usar.
+Desarrollador Full-Stack con experiencia en la creación de aplicaciones web y móviles utilizando tecnologías modernas como Django, React y Flutter. Especializado en construir soluciones robustas, escalables y centradas en la experiencia del usuario. Apasionado por el desarrollo limpio, la arquitectura de APIs RESTful y la integración eficiente entre frontend y backend.
 
 ## 🛠 Tecnologías que uso
 
@@ -10,6 +10,7 @@ Desarrollador full-stack con experiencia en soluciones para el sector hidráulic
 - Flutter
 - PostgreSQL
 - Tailwind CSS
+- Docker
 
 ## 🚀 Proyectos destacados
 
