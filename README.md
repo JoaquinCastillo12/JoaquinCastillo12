@@ -22,6 +22,7 @@ Desarrollador Full-Stack con experiencia en la creación de aplicaciones web y m
 
 - [LinkedIn]([https://www.linkedin.com/in/joaquin-castillo/])
 - joaquin.castilloh12@gmail.com
+- joako.online
 
 ---
 
